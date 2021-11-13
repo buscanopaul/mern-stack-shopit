@@ -1,0 +1,47 @@
+[
+    {
+        "name" : "SandDisk Ultra 128GB SDXC UHS",
+        "price" : "45.89",
+        "description" : "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "ratings" : 4.5, 
+        "images" : [{
+            "public_id" : "products/tzfsnrli",
+            "url" : "https://www.westerndigital.com/content/dam/store/en-us/assets/products/usb-flash-drives/cruzer-blade-usb-2-0/gallery/cruzer-blade-usb-2-0-angle.png"
+        }],
+        "category" : "Electronics",
+        "seller" : "Ebay",
+        "stock" : 50,
+        "numOfReviews" : 32,
+        "reviews" : []
+    },
+    {
+        "name" : "Sony WH-CH510 Wireless Headphones",
+        "price" : "35.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "ratings" : 4.7, 
+        "images" : [{
+            "public_id" : "products/fewaf32",
+            "url" : "https://cdn.shopify.com/s/files/1/0420/2553/products/wh-510_896x700.jpg?v=1573026423"
+        }],
+        "category" : "Electronics",
+        "seller" : "Shopee",
+        "stock" : 40,
+        "numOfReviews" : 30,
+        "reviews" : []
+    },
+    {
+        "name" : "Smart Watch Series 5",
+        "price" : "20.00",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+        "ratings" : 4.5, 
+        "images" : [{
+            "public_id" : "products/CjwKCAiAvriM",
+            "url" : "https://www.mytrendyphone.eu/images/Haylou-LS02-Waterproof-Smartwatch-with-Heart-Rate-Black-6971664930443-11092020-01-p.jpg"
+        }],
+        "category" : "Electronics",
+        "seller" : "Lazada",
+        "stock" : 30,
+        "numOfReviews" : 20,
+        "reviews" : []
+    }
+]
